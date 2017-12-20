@@ -27,7 +27,7 @@ public class AddBabyName extends HttpServlet {
 		out.print(" <a href='ViewBabyName' class='btn btn-primary' role='button'>View Baby Names</a> ");
 		out.print(" <a href='LogoutAdmin' class='btn btn-primary' role='button'>Logout</a> ");
 		
-		out.println("Some Message");
+		out.println("Some Message: change");
 		
 		String name=request.getParameter("name");
 		String meaning=request.getParameter("meaning");
