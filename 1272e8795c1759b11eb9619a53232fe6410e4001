@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4b9c64d6_db3741b4",
+        "filename": ".classpath",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1013124
+      },
+      "writtenOn": "2017-12-20T12:10:30Z",
+      "side": 1,
+      "message": "good change",
+      "revId": "1272e8795c1759b11eb9619a53232fe6410e4001",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c92079d1_f24516e5",
+        "filename": "src/main/java/com/omnetric/AddBabyName.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1013124
+      },
+      "writtenOn": "2017-12-20T12:10:30Z",
+      "side": 1,
+      "message": "testing change",
+      "revId": "1272e8795c1759b11eb9619a53232fe6410e4001",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
