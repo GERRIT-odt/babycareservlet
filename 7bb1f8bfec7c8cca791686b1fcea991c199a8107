@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0f66479e_85dfc733",
+        "filename": "src/MyApp.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1013124
+      },
+      "writtenOn": "2017-12-21T06:56:56Z",
+      "side": 1,
+      "message": "good change",
+      "revId": "7bb1f8bfec7c8cca791686b1fcea991c199a8107",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
