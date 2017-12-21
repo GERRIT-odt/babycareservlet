@@ -29,6 +29,7 @@ public class AddBabyName extends HttpServlet {
 		
 		out.println("Some Message: change");
 		out.println("Some Message: change1");
+		out.println("Some Message: change2");
 		
 		String name=request.getParameter("name");
 		String meaning=request.getParameter("meaning");
